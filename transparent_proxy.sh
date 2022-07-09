@@ -3,8 +3,8 @@
 # Add to /etc/tor/torrc
 #VirtualAddrNetworkIPv4 10.192.0.0/10
 #AutomapHostsOnResolve 1
-#TransPort 192.168.50.35:9040
-#DNSPort 192.168.50.35:535
+#TransPort 192.168.50.111:9040
+#DNSPort 192.168.50.111:5353
 
 # Tor's TransPort
 _trans_port="9040"
